@@ -1,6 +1,6 @@
 import java.io.*;
 
-//initial ways to read in/retrieve values for name
+
 class Name {
 	public Name(String last, String first) {
 		this.last = last;
